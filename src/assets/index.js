@@ -8,7 +8,6 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 
 import css from "./tech/css.png";
-import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
@@ -24,9 +23,10 @@ import threejs from "./tech/threejs.svg";
 import atameken from "./company/atameken.png";
 import tnft from "./company/tnft.png";
 
-import carrent from "./carrent.png";
+import gericht from "./gericht.jpg";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import websiteimg from './website.png'
 
 export {
   logo,
@@ -38,7 +38,6 @@ export {
   menu,
   close,
   css,
-  docker,
   figma,
   git,
   html,
@@ -52,7 +51,8 @@ export {
   threejs,
   atameken,
   tnft,
-  carrent,
+  gericht,
   jobit,
   tripguide,
+  websiteimg
 };
