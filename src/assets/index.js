@@ -27,6 +27,7 @@ import gericht from "./gericht.jpg";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import websiteimg from './website.png'
+import hastam from './hastam.png'
 
 export {
   logo,
@@ -50,6 +51,7 @@ export {
   typescript,
   threejs,
   atameken,
+  hastam,
   tnft,
   gericht,
   jobit,

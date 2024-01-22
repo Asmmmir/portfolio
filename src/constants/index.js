@@ -17,7 +17,8 @@ import {
     tripguide,
     threejs,
     atameken,
-    gericht
+    gericht,
+    hastam
   } from "../assets";
   
   export const navLinks = [
@@ -168,7 +169,7 @@ import {
     {
       name: "Gericht restaurant",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "A website for the restaurant business that allows you to view the entire range of dishes and drinks",
       tags: [
         {
           name: "react",
@@ -182,6 +183,24 @@ import {
       image: gericht,
       source_code_link: "https://github.com/Asmmmir/gericht-restaurant",
       website: 'https://asmmmir.github.io/gericht-restaurant/'
+    },
+    {
+      name: "Hastam",
+      description:
+        "A one-page website with the ability to fill in the gallery, a description of the business, as well as for the opportunity to contact the company",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "scss",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: hastam,
+      source_code_link: "https://github.com/Asmmmir/hastam",
+      website: 'https://asmmmir.github.io/hastam/'
     },
 
   ];
