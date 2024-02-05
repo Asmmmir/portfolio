@@ -203,32 +203,6 @@ import {
       source_code_link: "https://github.com/Asmmmir/hastam",
       website: 'https://asmmmir.github.io/hastam/'
     },
-    {
-      name: "WPL",
-      description:
-        "Website for viewing the results of the golf league",
-      tags: [
-        {
-          name: "html",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "css",
-          color: "pink-text-gradient",
-        },
-        {
-          name: "bootstrap",
-          color: "green-text-gradient",
-        },
-        {
-          name: "JS",
-          color: "orange-text-gradient",
-        },
-      ],
-      image: league,
-      source_code_link: "https://github.com/Asmmmir/leaguepro",
-      website: 'https://asmmmir.github.io/leaguepro/'
-    },
 
   ];
   
