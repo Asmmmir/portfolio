@@ -19,7 +19,8 @@ import {
     atameken,
     gericht,
     hastam,
-    league
+    nike,
+    justcode
   } from "../assets";
   
   export const navLinks = [
@@ -103,7 +104,7 @@ import {
     {
       title: "Frontend Developer (Education)",
       company_name: "JustCode",
-      icon: 'https://justcode.kz/static/main/img/images/panel-rocket.webp',
+      icon: justcode,
       iconBg: "#383E56",
       date: "October 2021 - July 2022",
       points: [
@@ -184,6 +185,24 @@ import {
       image: gericht,
       source_code_link: "https://github.com/Asmmmir/gericht-restaurant",
       website: 'https://asmmmir.github.io/gericht-restaurant/'
+    },
+    {
+      name: "Nike",
+      description:
+        "Simple landing page of Nike company. Adaptive and responsible website",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: nike,
+      source_code_link: "https://github.com/Asmmmir/nike_landing",
+      website: 'https://asmmmir.github.io/nike_landing/'
     },
     {
       name: "Hastam",

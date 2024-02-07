@@ -29,6 +29,8 @@ import tripguide from "./tripguide.png";
 import websiteimg from './website.png'
 import hastam from './hastam.png'
 import league from './league.png'
+import nike from './company/nike.png'
+import justcode from './company/justcode.svg'
 
 export {
   logo,
@@ -52,11 +54,13 @@ export {
   typescript,
   threejs,
   atameken,
+  justcode,
   hastam,
   league,
   tnft,
   gericht,
   jobit,
   tripguide,
-  websiteimg
+  websiteimg,
+  nike
 };
