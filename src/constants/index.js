@@ -9,6 +9,7 @@ import {
     redux,
     tailwind,
     nodejs,
+  chakra,
     mongodb,
     git,
     figma,
@@ -98,6 +99,10 @@ import {
       name: "figma",
       icon: figma,
     },
+    {
+      name: 'Chakra UI',
+      icon: chakra
+    }
   ];
   
   const experiences = [

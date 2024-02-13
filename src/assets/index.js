@@ -6,7 +6,7 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
-
+import chakra from './chakra.png'
 import css from "./tech/css.png";
 import figma from "./tech/figma.png";
 import git from "./tech/git.png";
@@ -50,6 +50,7 @@ export {
   nodejs,
   reactjs,
   redux,
+  chakra,
   tailwind,
   typescript,
   threejs,
