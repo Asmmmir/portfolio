@@ -15,6 +15,7 @@ import {
     figma,
     tnft,
     jobit,
+    instagram,
     tripguide,
     threejs,
     atameken,
@@ -179,11 +180,11 @@ import {
         "A website for the restaurant business that allows you to view the entire range of dishes and drinks",
       tags: [
         {
-          name: "react",
+          name: "React",
           color: "blue-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "Tailwind",
           color: "pink-text-gradient",
         },
       ],
@@ -197,11 +198,11 @@ import {
         "Simple landing page of Nike company. Adaptive and responsible website",
       tags: [
         {
-          name: "react",
+          name: "React",
           color: "blue-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "Tailwind",
           color: "pink-text-gradient",
         },
       ],
@@ -210,23 +211,46 @@ import {
       website: 'https://asmmmir.github.io/nike_landing/'
     },
     {
+      name: "Instagram Clone",
+      description:
+        "Welcome to Instagram-inspired platform, where sharing life's moments has never been easier. Discover a world of creativity with our intuitive interface and powerful editing tools. Join our vibrant community today and start sharing your story with the world!",
+      tags: [
+        {
+          name: "React",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Chakra UI",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "React Router",
+          color: "orange-text-gradient",
+        },
+      ],
+      image: instagram,
+      source_code_link: "https://github.com/Asmmmir/instagram-clone",
+      website: 'https://asmmmir.github.io/instagram-clone'
+    },
+
+    {
       name: "Hastam",
       description:
         "A one-page website with the ability to fill in the gallery, a description of the business, as well as for the opportunity to contact the company",
       tags: [
         {
-          name: "react",
+          name: "React",
           color: "blue-text-gradient",
         },
         {
-          name: "scss",
+          name: "Scss",
           color: "pink-text-gradient",
         },
       ],
       image: hastam,
       source_code_link: "https://github.com/Asmmmir/hastam",
       website: 'https://asmmmir.github.io/hastam/'
-    },
+    }
 
   ];
   

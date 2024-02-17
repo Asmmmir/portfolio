@@ -31,6 +31,7 @@ import hastam from './hastam.png'
 import league from './league.png'
 import nike from './company/nike.png'
 import justcode from './company/justcode.svg'
+import instagram from './instagram.jpg'
 
 export {
   logo,
@@ -57,6 +58,7 @@ export {
   atameken,
   justcode,
   hastam,
+  instagram,
   league,
   tnft,
   gericht,
