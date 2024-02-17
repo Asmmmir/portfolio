@@ -231,25 +231,6 @@ import {
       image: instagram,
       source_code_link: "https://github.com/Asmmmir/instagram-clone",
       website: 'https://asmmmir.github.io/instagram-clone'
-    },
-
-    {
-      name: "Hastam",
-      description:
-        "A one-page website with the ability to fill in the gallery, a description of the business, as well as for the opportunity to contact the company",
-      tags: [
-        {
-          name: "React",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "Scss",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: hastam,
-      source_code_link: "https://github.com/Asmmmir/hastam",
-      website: 'https://asmmmir.github.io/hastam/'
     }
 
   ];
