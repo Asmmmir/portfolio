@@ -1,7 +1,7 @@
 # Instagram Clone
 
 ## Description
-This is a clone of the popular social media platform Instagram. It is built using [insert technologies used, e.g., React, Node.js, MongoDB]. The clone replicates the core functionalities of Instagram, including user authentication, posting images, following other users, liking posts, and commenting on posts.
+This is a clone of the popular social media platform Instagram. It is built using [insert technologies used, e.g., React, React-Router, Chakra UI ]. The clone replicates the core functionalities of Instagram, including user authentication, posting images, following other users, liking posts, and commenting on posts.
 
 ## Features
 - User authentication: Users can sign up, log in, and log out securely.
@@ -12,4 +12,4 @@ This is a clone of the popular social media platform Instagram. It is built usin
 - Follow system: Users can follow and unfollow other users.
 - Search functionality: Users can search for other users and view their profiles.
 ## Technologies Used
-- Frontend: [insert frontend technologies used, e.g., React, HTML, Chakra]
+- Frontend: [insert frontend technologies used, e.g., React, React-Router, Chakra]
