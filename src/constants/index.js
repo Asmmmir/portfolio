@@ -115,9 +115,7 @@ import {
       date: "October 2021 - July 2022",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Landing pages - implemented single-page sites using React and Redux libraries. They have also been adapted for desktops and mobile devices", "Fast Food application - designed and wrote an application, commissioned by fast food using React, Redux, RTK, Webpack."
       ],
     },
     {
@@ -127,21 +125,31 @@ import {
       iconBg: "#E6DEDD",
       date: "Apr 2022 - Sep 2022",
       points: [
-        "Optimized web pages to improve speed and performance to ensure a seamless user experience.",
-        "Followed new trends and developments in the field of web development and applied them in his work where appropriate.",
-        "Wrote clean code that is easy to maintain and expand over time.",
+        "Performed tasks responsibly, including creating pages using the REST API in accordance with the set requirements.",
+        " Website layout using HTML, CSS, Bootstrap",
       ],
     },
     {
-      title: "Web Developer",
+      title: "Frontend Developer",
       company_name: "Atameken Electro Service",
       icon: atameken,
       iconBg: "#383E56",
       date: "Sep 2022 - Sep 2023",
       points: [
-        "Development and support of web applications: Creation and maintenance of web applications designed to manage installation and electronics systems.",
-        "Layout and Design: Creating a user interface, including page layout, styling and working with graphic elements to provide an attractive and user-friendly design.",
-        "Interactive Elements development: Adding interactive elements such as forms, buttons, switches and other controls to ensure user convenience.",
+        "Creating a user interface, including page layout, styling and working with graphic elements to provide an attractive and user-friendly design.",
+        "Adding interactive elements such as shapes, buttons, switches and other controls to ensure user convenience."
+      ],
+    },
+    {
+      title: "Frontend Developer",
+      company_name: "Freelance",
+      icon: '',
+      iconBg: "#383E56",
+      date: "Sep 2023 - Present",
+      points: [
+        "Website development using various libraries (Chakra UI, Material UI, Daisy UI), providing high quality and user-friendliness of the interface for users.",
+        "Development of client applications using the React library and its ecosystem, such as the Redux Toolkit (RTK), to effectively manage the state of applications and increase their scalability.",
+        "Integration with MongoDB database for data storage and processing, ensuring reliability and performance of web applications.", "Full-fledged application development, including a front-end on React, a backend on Node.js using Express.js for processing HTTP requests and interacting with the MongoDB database. Implementation of user authentication and authorization using GWT (JSON Web Token) for secure information exchange between the client and the server. Bcrypt was used to hash user passwords, ensuring their confidentiality in the database."
       ],
     },
   ];
