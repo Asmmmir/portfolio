@@ -32,6 +32,7 @@ import league from './league.png'
 import nike from './company/nike.png'
 import justcode from './company/justcode.svg'
 import instagram from './instagram.jpg'
+import kropp from './kropp.png'
 
 export {
   logo,
@@ -65,5 +66,6 @@ export {
   jobit,
   tripguide,
   websiteimg,
+  kropp,
   nike
 };

@@ -20,6 +20,7 @@ import {
     threejs,
     atameken,
     gericht,
+    kropp,
     hastam,
     nike,
     justcode
@@ -199,6 +200,24 @@ import {
       image: gericht,
       source_code_link: "https://github.com/Asmmmir/gericht-restaurant",
       website: 'https://asmmmir.github.io/gericht-restaurant/'
+    },
+    {
+      name: "Kropp crossfit",
+      description:
+        "Website for crossfit studio using only HTML and CSS",
+      tags: [
+        {
+          name: "HTML",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "CSS",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: kropp,
+      source_code_link: "https://github.com/Asmmmir/kropp_crossfit",
+      website: 'https://asmmmir.github.io/kropp_crossfit'
     },
     {
       name: "Nike",
