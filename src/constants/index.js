@@ -23,7 +23,8 @@ import {
     kropp,
     hastam,
     nike,
-    justcode
+    justcode,
+    furniro
   } from "../assets";
   
   export const navLinks = [
@@ -236,6 +237,28 @@ import {
       image: nike,
       source_code_link: "https://github.com/Asmmmir/nike_landing",
       website: 'https://asmmmir.github.io/nike_landing/'
+    },
+    {
+      name: "Furniro",
+      description:
+        "E-commerce website about furniture items ",
+      tags: [
+        {
+          name: "React",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "TypeScript",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Tailwind",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: furniro,
+      source_code_link: "https://github.com/Asmmmir/furniro",
+      website: 'https://asmmmir.github.io/furniro'
     },
     {
       name: "Instagram Clone",

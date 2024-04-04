@@ -33,6 +33,7 @@ import nike from './company/nike.png'
 import justcode from './company/justcode.svg'
 import instagram from './instagram.jpg'
 import kropp from './kropp.png'
+import furniro from './furniro.jpg'
 
 export {
   logo,
@@ -57,6 +58,7 @@ export {
   typescript,
   threejs,
   atameken,
+  furniro,
   justcode,
   hastam,
   instagram,
